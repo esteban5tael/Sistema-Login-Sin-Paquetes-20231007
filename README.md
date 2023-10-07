@@ -1,3 +1,14 @@
+# Login Sin Paquetes
+
+Este proyecto es un pequeño desarrollo que muestra cómo implementar un sistema de login básico en Laravel usando solo las herramientas que vienen por defecto.
+
+## Descripción
+<p>
+    Aquí podras ver un sistema de login logout , verificacion de sesion para el ingreso al dashboard asi como la visualización de 
+los vinculos según estes o no autenticado
+</p>
+<strong>Sientete libre de usarlo, comentar, aportar 😎</strong>
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
